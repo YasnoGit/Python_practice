@@ -19,3 +19,12 @@ apple_price = 200
 apple_count = 8
 total_praice = apple_price * apple_count
 print(total_praice)
+
+# 変数更新
+money = 2000
+print(money)
+money = money + 5000
+print(money)
+
+myname = 'にゃんじゃわんこ'
+print('私は' + myname + 'です')
