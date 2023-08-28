@@ -28,3 +28,9 @@ print(money)
 
 myname = 'にゃんじゃわんこ'
 print('私は' + myname + 'です')
+
+# データ型
+age = 24
+print('私は' + str(age) + '歳です')
+count = '5'
+print(int(count) + 1)
